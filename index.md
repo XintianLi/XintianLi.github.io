@@ -3,7 +3,7 @@
 ---
 
 ### Predictive Modeling with R Programming
-asdf
+
 [Predict House Prices in San Francisco](/projectMarkdown/HousePrice.html)
 <img src="images/HousePrice.png?raw=true"/>
 
