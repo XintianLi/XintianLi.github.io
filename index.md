@@ -3,13 +3,13 @@
 ---
 
 ### Predictive Modeling with R Programming
-
-[Predicting House Prices in San Francisco](/projectMarkdown/HousePrice.html)
+asdf
+[Predict House Prices in San Francisco](/projectMarkdown/HousePrice.html)
 <img src="images/HousePrice.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Forcast New Construction Permits in Philadelphia](/projectMarkdown/ConstructionPermits.html)
+<img src="images/ConstructionPermits.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
