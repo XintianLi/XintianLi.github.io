@@ -5,7 +5,7 @@
 ### Predictive Modeling with R Programming
 
 [Predict House Prices in San Francisco](/projectMarkdown/HousePrice.html)
-<img src="images/HousePrice.png?raw=true"/>
+<img src="images/HousePrice.jpg?raw=true"/>
 
 ---
 [Forcast New Construction Permits in Philadelphia](/projectMarkdown/ConstructionPermits.html)
