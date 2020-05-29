@@ -1,4 +1,4 @@
-## Portfolio
+##  Portfolio
 
 ---
 
@@ -16,7 +16,10 @@
 <img src="images/WeaponViolation.png?raw=true"/>
 
 ---
+[Target a House Credit](/projectMarkdown/TargetACredit.html)
+<img src="images/TargetACredit.png?raw=true"/>
 
+---
 ### Data Wrangling and Data Visualization with Python and JavaScript
 
 - [Project 1 Title](http://example.com/)
