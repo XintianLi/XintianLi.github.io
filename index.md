@@ -36,7 +36,7 @@
 ### Quantatitive Analysis with SPSS
 
 [Influence of Education and Gender on Occupational Income In China](/pdf/SPSS.pdf)
-<img src="images/ud1.png?raw=true"/>
+<img src="images/SPSS.jpg?raw=true"/>
 
 ---
 ### Data Wrangling and Data Visualization with Python and JavaScript
@@ -67,6 +67,3 @@
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
