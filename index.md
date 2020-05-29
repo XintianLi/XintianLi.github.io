@@ -17,46 +17,54 @@
 
 ---
 [Target a House Credit](/projectMarkdown/TargetACredit.html)
-<img src="images/TargetACredit.png?raw=true"/>
-
----
-### Data Wrangling and Data Visualization with Python and JavaScript
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="images/TargetACredit.jpg?raw=true"/>
 
 ---
 ### Geospatial Analysis with GIS
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Expand Urban Growth Boundary](/pdf/Expanding_Urban_Growth_Boundary.pdf)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sit a Sculpture for COVID-19 in East Central California](/pdf/Siting_a_Sculpture_for_COVID19.pdf)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Geolocate a lost toy](/pdf/Geolocating_with_Map_algebra.pdf)
+
 
 ---
+
+### Quantatitive Analysis with SPSS
+
+[Influence of Education and Gender on Occupational Income In China](/pdf/SPSS.pdf)
+<img src="images/ud1.png?raw=true"/>
+
+---
+### Data Wrangling and Data Visualization with Python and JavaScript
+
+- [Analyzing-Pay-Inequality](https://github.com/rsk2327/PDSG_PayInequality)
+- [Predicting-Food-Deserts](https://github.com/XintianLi/Predicting-Food-Deserts)
+
+---
+
 ### Urban Design and Urban Planning Works
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Revamp the Edge](/pdf/Design_Portfolio1.pdf)
+<img src="images/ud1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Eoke ancient GUO-the Outer City Wall of Nanjing](/pdf/Design_Portfolio2.pdf)
+<img src="images/ud2.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Writing Sample
+
+[A Study on Commuting with Public Transit](/pdf/Commuting_with_Public_Transit.pdf)
+<img src="images/Commuting_with_Public_Transit.jpg?raw=true"/>
 
 ---
+[A Study of Government Subsidy Strategies on Public Transportation – with additional Online Taxi-Hailing as Background](/pdf/Online_Taxi-Hailing.pdf)
+<img src="images/onlinetaxi.png?raw=true"/>
+
 
 
 ---
