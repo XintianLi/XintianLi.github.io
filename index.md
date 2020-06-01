@@ -4,12 +4,13 @@
 
 ### Predictive Modeling with R Programming
 
-[Predict House Prices in San Francisco](/projectMarkdown/HousePrice.html)
-<img src="images/HousePrice.jpg?raw=true"/>
-
----
 [Forcast New Construction Permits in Philadelphia](/projectMarkdown/ConstructionPermits.html)
 <img src="images/ConstructionPermits.jpg?raw=true"/>
+
+---
+
+[Predict House Prices in San Francisco](/projectMarkdown/HousePrice.html)
+<img src="images/HousePrice.jpg?raw=true"/>
 
 ---
 [Predict Weapon Violations in Chicago](/projectMarkdown/WeaponViolation.html)
@@ -22,13 +23,11 @@
 ---
 ### Geospatial Analysis with GIS
 
-[Expand Urban Growth Boundary](/pdf/Expanding_Urban_Growth_Boundary.pdf)
+- [Expand Urban Growth Boundary](/pdf/Expanding_Urban_Growth_Boundary.pdf)
 
----
-[Sit a Sculpture for COVID-19 in East Central California](/pdf/Siting_a_Sculpture_for_COVID19.pdf)
+- [Sit a Sculpture for COVID-19 in East Central California](/pdf/Siting_a_Sculpture_for_COVID19.pdf)
 
----
-[Geolocate a lost toy](/pdf/Geolocating_with_Map_algebra.pdf)
+- [Geolocate a lost toy](/pdf/Geolocating_with_Map_algebra.pdf)
 
 
 ---
