@@ -34,7 +34,9 @@
 ### Data Wrangling and Data Visualization with Python and JavaScript
 
 - [ActivityFinder of Philadelphia City](https://xintianli.github.io/MUSA611_FinalProject/)
+
 - [Analyzing-Pay-Inequality](https://github.com/rsk2327/PDSG_PayInequality)
+
 - [Predicting-Food-Deserts](https://github.com/XintianLi/Predicting-Food-Deserts)
 
 
@@ -57,7 +59,7 @@
 <img src="images/ud2.png?raw=true"/>
 
 ---
-### Writing Sample
+### Writing Samples
 
 [A Study on Commuting with Public Transit](/pdf/Commuting_with_Public_Transit.pdf)
 <img src="images/Commuting_with_Public_Transit.jpg?raw=true"/>
