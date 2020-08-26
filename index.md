@@ -31,17 +31,19 @@
 
 
 ---
+### Data Wrangling and Data Visualization with Python and JavaScript
+
+- [ActivityFinder of Philadelphia City](https://xintianli.github.io/MUSA611_FinalProject/)
+- [Analyzing-Pay-Inequality](https://github.com/rsk2327/PDSG_PayInequality)
+- [Predicting-Food-Deserts](https://github.com/XintianLi/Predicting-Food-Deserts)
+
+
+---
 
 ### Quantatitive Analysis with SPSS
 
 [Influence of Education and Gender on Occupational Income In China](/pdf/SPSS.pdf)
 <img src="images/SPSS.jpg?raw=true"/>
-
----
-### Data Wrangling and Data Visualization with Python and JavaScript
-
-- [Analyzing-Pay-Inequality](https://github.com/rsk2327/PDSG_PayInequality)
-- [Predicting-Food-Deserts](https://github.com/XintianLi/Predicting-Food-Deserts)
 
 ---
 
