@@ -3,6 +3,8 @@
 ---
 
 ### Predictive Modeling with R Programming
+[Predicting Bikeshare Trips in NYC](/projectMarkdown/PredictingBike.html)
+<img src="images/bikeApp.png?raw=true"/>
 
 [Forcast New Construction Permits in Philadelphia](/projectMarkdown/ConstructionPermits.html)
 <img src="images/ConstructionPermits.jpg?raw=true"/>
