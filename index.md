@@ -6,31 +6,23 @@
 [Predicting Bikeshare Trips in NYC](/projectMarkdown/PredictingBike.html)
 <img src="images/bikeApp.png?raw=true"/>
 
+---
+
 [Forcast New Construction Permits in Philadelphia](/projectMarkdown/ConstructionPermits.html)
 <img src="images/ConstructionPermits.jpg?raw=true"/>
 
 ---
 
-[Predict House Prices in San Francisco](/projectMarkdown/HousePrice.html)
-<img src="images/HousePrice.jpg?raw=true"/>
+### Machine Learning and Deep Learning in Remote Sensing
+[Land Cover Classification and Identification](/pdf/MUSA_650_Final_Report.pdf)
+<img src="images/remotesensing.png?raw=true"/>
 
 ---
-[Predict Weapon Violations in Chicago](/projectMarkdown/WeaponViolation.html)
-<img src="images/WeaponViolation.png?raw=true"/>
 
----
-[Target a House Credit](/projectMarkdown/TargetACredit.html)
-<img src="images/TargetACredit.jpg?raw=true"/>
+### Geospatial Analysis & Spatial Statistics
 
----
-### Geospatial Analysis with GIS
-
-- [Expand Urban Growth Boundary](/pdf/Expanding_Urban_Growth_Boundary.pdf)
-
-- [Sit a Sculpture for COVID-19 in East Central California](/pdf/Siting_a_Sculpture_for_COVID19.pdf)
-
-- [Geolocate a lost toy](/pdf/Geolocating_with_Map_algebra.pdf)
-
+[Social Vulnerability to Sea Level Rise](/pdf/ArcPython_workSample_Xintan_Stella_Li.pdf)
+<img src='images/arcpy.png?raw=true'/>
 
 ---
 ### Data Wrangling and Data Visualization with Python and JavaScript
@@ -51,7 +43,7 @@
 
 ---
 
-### Urban Design and Urban Planning Works
+### Additional Works in Urban Planning, Urban Design and Urban Studies
 
 [Revamp the Edge](/pdf/Design_Portfolio1.pdf)
 <img src="images/ud1.png?raw=true"/>
@@ -66,9 +58,7 @@
 [A Study on Commuting with Public Transit](/pdf/Commuting_with_Public_Transit.pdf)
 <img src="images/Commuting_with_Public_Transit.jpg?raw=true"/>
 
----
-[A Study of Government Subsidy Strategies on Public Transportation – with additional Online Taxi-Hailing as Background](/pdf/Online_Taxi-Hailing.pdf)
-<img src="images/onlinetaxi.png?raw=true"/>
+
 
 
 
