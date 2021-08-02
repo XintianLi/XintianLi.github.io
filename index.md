@@ -4,7 +4,7 @@
 
 ## Geospatial Analysis with ArcGIS
 
-**[TransitHero - Hacking the Way to Transit Equity](https://devpost.com/software/transithero-hacking-the-way-to-transit-equity)**
+**[*Strong 2nd Place in Esri's Intern Hackathon:* <br> TransitHero - Hacking the Way to Transit Equity](https://devpost.com/software/transithero-hacking-the-way-to-transit-equity)**
 
 <img src='images/hackathon.jpg?raw=true'/>
 
@@ -50,7 +50,7 @@
 
 ### Transportation Planning & Multimodal Planning 
 
-**[Sea Level Rise Studio]()**
+**[Sea Level Rise Studio](https://drive.google.com/file/d/1bCS2dz1TngQmL_-6ScRok6abb3F3e_ah/view?usp=sharing)**
 <img src="images/studio.png?raw=true"/>
 **Responsiblities:** Mainly Responsible for the Island-wide Road Infrastructure Protection in Face of Sea Level Rising [here](/pdf/transit_part_studio.pdf). 
 
