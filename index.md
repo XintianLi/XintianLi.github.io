@@ -6,7 +6,7 @@
 
 <img src='images/hackathon.jpg?raw=true'/>
 
-**Responsiblities:** I mainly worked on the hackathon idea and the predicted analytics section of the project. Successfully trained a machine learning model with multidimensional data and forecasted future bike demand in the DC area.
+**Responsibilities:** I mainly worked on the hackathon idea and the predicted analytics section of the project. Successfully trained a machine learning model with multidimensional data and forecasted future bike demand in the DC area.
 
 * [Dashboard](https://www.arcgis.com/apps/dashboards/3cbf06578c3748dfbc3ce59b70843838)
 * [Automated Index Calculator](https://github.com/skunz42/Esri-Hackathon)
@@ -18,7 +18,7 @@
 **[Predicting Bikeshare Trips in NYC](/projectMarkdown/PredictingBike.html)**
 <img src="images/bikeApp.png?raw=true"/>
 
-**Responsiblities:** Collaboratively worked in a team of 3. I focused more on the data cleaning part and model training & comparison part.
+**Responsibilities:** Collaboratively worked in a team of 3. I focused more on the data cleaning part and model training & comparison part.
 
 ---
 
@@ -32,7 +32,7 @@
 **[Land Cover Classification and Identification](/pdf/MUSA_650_Final_Report.pdf)**
 <img src="images/remotesensing.png?raw=true"/>
 
-**Responsiblities:** Mainly responsible for the training and evaluation of SVM model, and the two CNN models.
+**Responsibilities:** Mainly responsible for the training and evaluation of SVM model, and the two CNN models.
 
 ---
 
@@ -56,7 +56,7 @@
 
 **[Sea Level Rise Studio](https://drive.google.com/file/d/1bCS2dz1TngQmL_-6ScRok6abb3F3e_ah/view?usp=sharing)**
 <img src="images/studio.png?raw=true"/>
-**Responsiblities:** Mainly Responsible for the Island-wide Road Infrastructure Protection in Face of Sea Level Rising [here](/pdf/transit_part_studio.pdf). 
+**Responsibilities:** Mainly Responsible for the Island-wide Road Infrastructure Protection in Face of Sea Level Rising [here](https://drive.google.com/file/d/14a6_0WazHGrQuOvWSe5t4PZm8CzA_K_U/view?usp=sharing). 
 
 ---
 
